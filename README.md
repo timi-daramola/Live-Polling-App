@@ -1,7 +1,3 @@
-Certainly! Below is the **README.md** markdown file for the initial code I generated for the **Real-Time Polling App**. This markdown file explains the functionality, setup instructions, and code structure for the app.
-
----
-
 # Real-Time Polling App
 
 A simple, interactive polling web application built with HTML, CSS, and JavaScript. This app allows users to vote for their favorite programming language and displays real-time results, including the number of votes and percentages for each option.
