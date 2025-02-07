@@ -8,7 +8,7 @@ A simple, interactive polling web application built with HTML, CSS, and JavaScri
 - **Vote Submission**: Users can select an option and submit their vote.
 - **Real-Time Results**: The app shows real-time vote counts and percentages for each option.
 - **Recursion**: Recursively calculates the total number of votes.
-- **Error Handling**: Proper error handling for invalid submissions (e.g., no option selected).
+- **Error Handling**: Proper error handling for invalid submissions.
 - **Responsive Design**: The app is styled to be responsive, working across different screen sizes.
 
 ---
